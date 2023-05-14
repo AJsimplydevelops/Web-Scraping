@@ -24,7 +24,7 @@ Playoffs:
 ![image](https://github.com/AJsimplydevelops/Web-Scraping/assets/78631693/b851e0d9-1547-4b70-81aa-488189136ada)
 
 3) How the game has changed over the past decade (Playoffs vs. Regular Season)
-For this, I integrated a new column in my dataframe which is POSS_per_48 that calculates the efficiency of possession. Used a line chart to effectively display how it has changed 
+- For this, I integrated a new column in my dataframe which is POSS_per_48 that calculates the efficiency of possession. Used a line chart to effectively display how it has changed 
 - We conclude the game has evolved since there's more points, more 3's are being taken, as well as possessions are more effective.
 
 ![image](https://github.com/AJsimplydevelops/Web-Scraping/assets/78631693/efde82a7-af3d-43aa-a742-ddecc12d1da8)
